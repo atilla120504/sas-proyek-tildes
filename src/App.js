@@ -1,6 +1,7 @@
 
 import './App.css';
-import { Bikin } from './components/Ujian';
+import { Bikin } from './components/Remedial';
+
 
 
 function App() {
